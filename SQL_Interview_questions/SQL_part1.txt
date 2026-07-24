@@ -1,0 +1,32 @@
+Interview Questions
+
+1. What is SQL, and why is it used?
+
+
+2. Explain the difference between DELETE, TRUNCATE, and DROP.
+
+
+3. What is the difference between WHERE and HAVING?
+
+
+4. What are aggregate functions?
+
+
+5. Explain GROUP BY with an example.
+
+
+6. What are joins? Name different types.
+
+
+7. What is a primary key?
+
+
+8. What is a foreign key?
+
+
+9. What is a subquery?
+
+
+10. What is a view in SQL?
+
+ 
